@@ -3,14 +3,6 @@ rules:
   - base: master
     upstream: KelvinTegelaar:master
     mergeMethod: merge
-    assignees:
-      - northportio
-    reviewers:
-      - northportio
   - base: dev
     upstream: KelvinTegelaar:dev
     mergeMethod: none
-    assignees:
-      - northportio
-    reviewers:
-      - northportio
